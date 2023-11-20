@@ -7,7 +7,7 @@
 - 🌐 现居：[你的城市，国家]
 - 💼 职业：软件工程师
 - 🎓 学历：[你的学历，如果愿意分享的话]
-- ![GitHub账户信息统计](https://github-stats.ubrong.com/api?Gravel-1019=ubrong&show_icons=true&theme=tokyonight) 作者：迷斯特航 https://www.bilibili.com/read/cv21336135/ 出处：bilibili
+- ![GitHub账户信息统计](https://github-stats.ubrong.com/api?Gravel-1019=ubrong&show_icons=true&theme=tokyonight) 
 
 ## 技术栈
 
