@@ -1,53 +1,39 @@
-# 你的名字
-
-👋 你好，欢迎来到我的 GitHub 主页！我是 [你的名字]，一位对技术充满热情的开发者。
+# 你好👋 ，我是Gravel
+![评估](https://github-readme-stats.vercel.app/api?username=Gravel-1019&show_icons=true&theme=transparent)
 
 ## 关于我
+💻全栈开发<br/>
+<br/>
+💻信息安全<br/>
+<br/>
 
-- 🌐 现居：[你的城市，国家]
-- 💼 职业：软件工程师
-- 🎓 学历：[你的学历，如果愿意分享的话]
-- ![GitHub账户信息统计](https://github-stats.ubrong.com/api?Gravel-1019=ubrong&show_icons=true&theme=tokyonight) 
 
 ## 技术栈
 
-以下是我熟练掌握的技术：
+- 🌐 前端开发：&nbsp;Html/CSS/JavaScript<br/>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
+  jQuery/BootStrap/Sass<br/>
+  <br/>
+- 🚀 后端开发：&nbsp;Python/PHP/Java<br/>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
+  Mysql/Springboot/Flask/
 
-- 💻 编程语言：[列举你熟悉的编程语言]
-- 🌐 前端开发：[列举你熟悉的前端技术]
-- 🚀 后端开发：[列举你熟悉的后端技术]
-- 🛠 工具和框架：[列举你常用的工具和框架]
+## 语言
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gravel-1019&layout=compact&theme=tokyonight)
 
-## 项目
+## 网络攻防
 
-这里是一些我正在进行或者完成的项目：
+- RedTeam：信息收集/Web攻防/内网渗透/漏洞挖掘/免杀/APT/安全开发<br/>
+<br/>
+- BlueTeam：蜜罐/流量分析/溯源
 
-1. **项目名称 1**
-   - 📃 项目描述：简要介绍你的项目是做什么的。
-   - 🚀 技术栈：列出你在项目中使用的主要技术。
-
-2. **项目名称 2**
-   - 📃 项目描述：简要介绍你的项目是做什么的。
-   - 🚀 技术栈：列出你在项目中使用的主要技术。
-
-## 开源贡献
-
-我热衷于为开源社区做出贡献，以下是一些我参与的开源项目：
-
-1. **项目名称 1**
-   - 🌐 项目链接：提供项目的 GitHub 链接。
-   - 🛠 我的贡献：简要描述你在项目中的贡献。
-
-2. **项目名称 2**
-   - 🌐 项目链接：提供项目的 GitHub 链接。
-   - 🛠 我的贡献：简要描述你在项目中的贡献。
 
 ## 联系方式
 
 如果你想联系我或者了解更多信息，可以通过以下方式找到我：
 
-- 📧 邮箱：[你的邮箱]
-- 🐦 Twitter：[@你的Twitter账号](https://twitter.com/your_twitter_handle)
-- 💼 LinkedIn：[你的LinkedIn账号](https://www.linkedin.com/in/your-linkedin)
+- 📧邮箱：3575160075@qq.com
+- 🐧QQ ：3575160075
+
 
 感谢访问我的 GitHub 主页，期待与你交流和分享技术经验！
