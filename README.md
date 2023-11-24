@@ -1,5 +1,5 @@
 # 你好👋 ，我是Gravel
-![评估](https://github-readme-stats.vercel.app/api?username=zmh-program&show_icons=true&theme=transparent)
+![评估](https://github-readme-stats.vercel.app/api?username=Gravel-1019&show_icons=true&theme=transparent)
 
 ## 关于我
 💻全栈开发<br/>
@@ -19,7 +19,7 @@
   Mysql/Springboot/Flask/
 
 ## 语言
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linwin-Cloud&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gravel-1019&layout=compact&theme=tokyonight)
 
 ## 网络攻防
 
