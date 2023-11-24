@@ -19,7 +19,7 @@
   Mysql/Springboot/Flask/
 
 ## 语言
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gravel-1019&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gravel&layout=compact&theme=tokyonight)
 
 ## 网络攻防
 
